@@ -15532,7 +15532,8 @@
   ],
   "pendulum": [
     "poetry-core",
-    "setuptools"
+    "setuptools",
+    "maturin"
   ],
   "pep257": [
     "poetry-core",
